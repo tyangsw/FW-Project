@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/maximillion/!svn/ver/6924/SWDev/TargetSW/Xilinx/Modules/Firmware/trunk/app/src/modules/DS
+END
+module_main.c
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/maximillion/!svn/ver/6924/SWDev/TargetSW/Xilinx/Modules/Firmware/trunk/app/src/modules/DS/module_main.c
+END
+module_menu.c
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/maximillion/!svn/ver/3985/SWDev/TargetSW/Xilinx/Modules/Firmware/trunk/app/src/modules/DS/module_menu.c
+END
+module.h
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/maximillion/!svn/ver/6545/SWDev/TargetSW/Xilinx/Modules/Firmware/trunk/app/src/modules/DS/module.h
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/maximillion/!svn/ver/6180/SWDev/TargetSW/Xilinx/Modules/Firmware/trunk/app/src/modules/DS/Makefile
+END

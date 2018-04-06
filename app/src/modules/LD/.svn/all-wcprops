@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/maximillion/!svn/ver/8606/SWDev/TargetSW/Xilinx/Modules/Firmware/trunk/app/src/modules/LD
+END
+BitFilterCoef_LoFreq.h
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/maximillion/!svn/ver/7783/SWDev/TargetSW/Xilinx/Modules/Firmware/trunk/app/src/modules/LD/BitFilterCoef_LoFreq.h
+END
+IntegratorValues.h
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/maximillion/!svn/ver/8602/SWDev/TargetSW/Xilinx/Modules/Firmware/trunk/app/src/modules/LD/IntegratorValues.h
+END
+SignalFilterCoef_HiFreq.h
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/maximillion/!svn/ver/7783/SWDev/TargetSW/Xilinx/Modules/Firmware/trunk/app/src/modules/LD/SignalFilterCoef_HiFreq.h
+END
+BitFilterCoef_HiFreq.h
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/maximillion/!svn/ver/7783/SWDev/TargetSW/Xilinx/Modules/Firmware/trunk/app/src/modules/LD/BitFilterCoef_HiFreq.h
+END
+FilterCoef.h
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/maximillion/!svn/ver/8602/SWDev/TargetSW/Xilinx/Modules/Firmware/trunk/app/src/modules/LD/FilterCoef.h
+END
+module_main.c
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/maximillion/!svn/ver/8604/SWDev/TargetSW/Xilinx/Modules/Firmware/trunk/app/src/modules/LD/module_main.c
+END
+FilterGain.h
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/maximillion/!svn/ver/8602/SWDev/TargetSW/Xilinx/Modules/Firmware/trunk/app/src/modules/LD/FilterGain.h
+END
+module_menu.c
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/maximillion/!svn/ver/7783/SWDev/TargetSW/Xilinx/Modules/Firmware/trunk/app/src/modules/LD/module_menu.c
+END
+module.h
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/maximillion/!svn/ver/8605/SWDev/TargetSW/Xilinx/Modules/Firmware/trunk/app/src/modules/LD/module.h
+END
+RMSFreqScaleFactor.h
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/maximillion/!svn/ver/7783/SWDev/TargetSW/Xilinx/Modules/Firmware/trunk/app/src/modules/LD/RMSFreqScaleFactor.h
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/maximillion/!svn/ver/8606/SWDev/TargetSW/Xilinx/Modules/Firmware/trunk/app/src/modules/LD/Makefile
+END
+ProportionalValues.h
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/maximillion/!svn/ver/8602/SWDev/TargetSW/Xilinx/Modules/Firmware/trunk/app/src/modules/LD/ProportionalValues.h
+END
+SignalFilterCoef_LoFreq.h
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/maximillion/!svn/ver/7783/SWDev/TargetSW/Xilinx/Modules/Firmware/trunk/app/src/modules/LD/SignalFilterCoef_LoFreq.h
+END

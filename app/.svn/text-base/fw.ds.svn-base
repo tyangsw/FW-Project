@@ -1,0 +1,13 @@
+#############################################################################
+#
+# Module firmware debug script for DS-5.
+#
+#############################################################################
+
+# Stop the target
+stop
+
+# Load FW symbols
+symbol-file "$sdir/bin/ZZ1/fw.elf" 0x0
+#set debug-from *0x0
+#start

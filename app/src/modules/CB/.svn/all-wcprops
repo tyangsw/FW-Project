@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/maximillion/!svn/ver/6510/SWDev/TargetSW/Xilinx/Modules/Firmware/trunk/app/src/modules/CB
+END
+fpga_addresses.h
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/maximillion/!svn/ver/6292/SWDev/TargetSW/Xilinx/Modules/Firmware/trunk/app/src/modules/CB/fpga_addresses.h
+END
+can.c
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/maximillion/!svn/ver/6292/SWDev/TargetSW/Xilinx/Modules/Firmware/trunk/app/src/modules/CB/can.c
+END
+dpram_addresses.h
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/maximillion/!svn/ver/6292/SWDev/TargetSW/Xilinx/Modules/Firmware/trunk/app/src/modules/CB/dpram_addresses.h
+END
+axi.h
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/maximillion/!svn/ver/6292/SWDev/TargetSW/Xilinx/Modules/Firmware/trunk/app/src/modules/CB/axi.h
+END
+bits.h
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/maximillion/!svn/ver/6292/SWDev/TargetSW/Xilinx/Modules/Firmware/trunk/app/src/modules/CB/bits.h
+END
+can.h
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/maximillion/!svn/ver/6292/SWDev/TargetSW/Xilinx/Modules/Firmware/trunk/app/src/modules/CB/can.h
+END
+module_main.c
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/maximillion/!svn/ver/6292/SWDev/TargetSW/Xilinx/Modules/Firmware/trunk/app/src/modules/CB/module_main.c
+END
+module_menu.c
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/maximillion/!svn/ver/6292/SWDev/TargetSW/Xilinx/Modules/Firmware/trunk/app/src/modules/CB/module_menu.c
+END
+module.h
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/maximillion/!svn/ver/6510/SWDev/TargetSW/Xilinx/Modules/Firmware/trunk/app/src/modules/CB/module.h
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/maximillion/!svn/ver/6292/SWDev/TargetSW/Xilinx/Modules/Firmware/trunk/app/src/modules/CB/Makefile
+END

@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/maximillion/!svn/ver/6292/SWDev/TargetSW/Xilinx/Modules/Firmware/trunk/app/src/modules/CB/ssJ1939
+END
+j1939.c
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/maximillion/!svn/ver/6292/SWDev/TargetSW/Xilinx/Modules/Firmware/trunk/app/src/modules/CB/ssJ1939/j1939.c
+END
+j1939tp.c
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/maximillion/!svn/ver/6292/SWDev/TargetSW/Xilinx/Modules/Firmware/trunk/app/src/modules/CB/ssJ1939/j1939tp.c
+END
+j1939.h
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/maximillion/!svn/ver/6292/SWDev/TargetSW/Xilinx/Modules/Firmware/trunk/app/src/modules/CB/ssJ1939/j1939.h
+END
+j1939cfg.h
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/maximillion/!svn/ver/6292/SWDev/TargetSW/Xilinx/Modules/Firmware/trunk/app/src/modules/CB/ssJ1939/j1939cfg.h
+END
+j1939app.h
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/maximillion/!svn/ver/6292/SWDev/TargetSW/Xilinx/Modules/Firmware/trunk/app/src/modules/CB/ssJ1939/j1939app.h
+END
+j1939tp.h
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/maximillion/!svn/ver/6292/SWDev/TargetSW/Xilinx/Modules/Firmware/trunk/app/src/modules/CB/ssJ1939/j1939tp.h
+END

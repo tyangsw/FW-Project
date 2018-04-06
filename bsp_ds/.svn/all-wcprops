@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/maximillion/!svn/ver/4452/SWDev/TargetSW/Xilinx/Modules/Firmware/trunk/bsp_ds
+END
+.project
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/maximillion/!svn/ver/3985/SWDev/TargetSW/Xilinx/Modules/Firmware/trunk/bsp_ds/.project
+END
+system.mss
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/maximillion/!svn/ver/3985/SWDev/TargetSW/Xilinx/Modules/Firmware/trunk/bsp_ds/system.mss
+END
+.sdkproject
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/maximillion/!svn/ver/3985/SWDev/TargetSW/Xilinx/Modules/Firmware/trunk/bsp_ds/.sdkproject
+END
+.cproject
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/maximillion/!svn/ver/3985/SWDev/TargetSW/Xilinx/Modules/Firmware/trunk/bsp_ds/.cproject
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/maximillion/!svn/ver/3985/SWDev/TargetSW/Xilinx/Modules/Firmware/trunk/bsp_ds/Makefile
+END
